@@ -15,6 +15,7 @@
 PTTea 是一個基於 Flutter 框架構建的跨平台 PTT 瀏覽 APP，計畫旨在為使用者提供一個方便、可掌控隱私且易於擴展的 PTT 瀏覽 APP 體驗。
 
 本計畫由多個子專案構成，包括 libpttea 和 ansiparser 等。
+
 目前Python 版本的測試用實作，[libpttea-py](https://github.com/bubble-tea-project/libpttea-py) , [ansiparser](https://github.com/bubble-tea-project/ansiparser) ，部分功能已整理並開源。
 
 ## 💾 Download
